@@ -11,7 +11,7 @@ import NetworkLibrary
 
 final public class API {
 	private let network: NetworkLibrary
-	init(network: NetworkLibrary) {
+	public init(network: NetworkLibrary) {
 		self.network = network
 	}
 
