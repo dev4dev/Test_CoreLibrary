@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/NetworkLibrary"]
+	path = Carthage/Checkouts/NetworkLibrary
+	url = file:///Users/devil/Desktop/carth/NetworkLibrary
